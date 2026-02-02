@@ -12,7 +12,7 @@
     "preview": "vite preview",
     "test:unit": "vitest",
     "test:e2e": "playwright test",
-    "type-check": "vue-tsc --build --force"
+    "type-check": "npx vue-tsc --build --force"
   },
   "dependencies": {
     "vue": "^3.4.0",
